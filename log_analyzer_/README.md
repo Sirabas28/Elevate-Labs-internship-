@@ -123,7 +123,7 @@ This project demonstrates a basic intrusion detection system that analyzes logs,
 
 ## 👨‍💻 Author
 
-Mohammed Nihal
+A Sabaris
 
 ````
 
