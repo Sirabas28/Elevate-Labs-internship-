@@ -1,0 +1,7 @@
+=== Incident Report ===
+
+Brute Force Attempts:
+127.0.0.1 → 101
+
+DoS Attempts:
+::1 → 51
